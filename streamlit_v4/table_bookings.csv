@@ -1,0 +1,4 @@
+booking_id,table_type,mode,player1,player2,player3,player4,date,start_time,end_time,duration,amount,remarks
+0da8cc85-7f86-42fe-a86d-f8943eb5da25,Snooker-2,Team,Prithvi,Kartik,Rawat,Frnd,2026-04-14,05:40 PM,05:50 PM,00:15,,Prithvi Will Pay 100
+a1e6ece5-d6ef-4964-bfaa-25868cee16fd,Snooker-1,Solo,Anuj,Sahil,,,2026-04-14,05:35 PM,05:55 PM,00:20,,
+70bebd4e-0ccc-4f9d-bf66-c7eb6a7687c9,Snooker-1,Team,Ansh,Harshit,Anuj,Pratish,2026-04-14,06:58 PM,07:22 PM,00:24,,150
